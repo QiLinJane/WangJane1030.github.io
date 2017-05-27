@@ -67,11 +67,8 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .entry ul li{margin-bottom:5px;list-style:disc;line-height:1.8em;}
 .entry ol{margin-bottom:25px;margin-left:25px;}
 .entry ol li{margin-bottom:5px;list-style:decimal;line-height:1.1em;}
-.entry blockquote{margin-left:25px;font-size:16px;margin-right:25px;color:#555;
-  border-left:5px solid #ccc;padding:5px 30px;background:#eee;margin-bottom:40px}
-.entry blockquote p{margin:0px}
+.entry blockquote{margin-left:25px;font-size:14px;font-style:italic}
 .entry img{max-width:670px;display:block;margin:10px auto;}
-.entry center{margin-bottom: 40px;color:#999;font-size:14px;}
 
 
 .index-content .aside {
@@ -86,14 +83,14 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-size:cover;
     background-position:50% 50%;
 }
-.community .aside{
-    background-image:url(http://openmindclub.qiniudn.com/ishanshan/blog/AsideImage/plant2.jpg);
+.blog .aside{
+    background-image:url(https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*cF2i1ZosSP_UTJig.jpeg);
 }
-.selfedu .aside{
-    background-image:url(http://openmindclub.qiniudn.com//ishanshan/blog/AsideImage/frout3.jpg);
+.dump .aside{
+    background-image:url(https://dnqgz544uhbo8.cloudfront.net/_/fp/img/bestof/june-2013.CaUUbO2jIECgCmldhmxCCA.jpg);
 }
-.murmur .aside{
-    background-image:url(http://openmindclub.qiniudn.com//ishanshan/blog/AsideImage/seaside1.jpg);
+.project .aside{
+    background-image:url('https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*kTUZamBulGQZg1MW.jpeg')
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
 
@@ -168,9 +165,9 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     .index-content .cate-bar { width:85%; }
     .index-content .artical-cate { margin-top:50px; }
 
-    .community .aside,
-    .selfedu .aside,
-    .murmur .aside {display:none;background-image:none;}
+    .blog .aside,
+    .project .aside,
+    .dump .aside {display:none;background-image:none;}
 }
 
 @media (max-width: 1020px){
