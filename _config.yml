@@ -6,9 +6,9 @@ highlighter: 'pygments'
 #paginate: 8
 permalink: /:title
 
-name: “Mukosame's Blog”
-title: Mukosame's blog
+name: “WangJane's Blog”
+title: WangJane's blog
 description: Everything about Mukosame.
-url: http://mukosame.github.io
+url: http://WangJane1030.github.io
 feed: /atom.xml
-author_info: <a href="http://mukosame.github.io/">Mukosame</a>
+author_info: <a href="http://WangJane1030.github.io/">WangJane</a>
