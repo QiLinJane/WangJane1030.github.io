@@ -1,0 +1,11 @@
+auto: true
+
+#markdown: rdiscount
+highlighter: 'pygments'
+#paginate: 8
+permalink: /:title
+
+title: Hyper Hamster
+url: http://WangJane1030.github.io
+feed: /atom.xml
+author_info: <a href="http://WangJane1030.github.io/">WangJane</a>
