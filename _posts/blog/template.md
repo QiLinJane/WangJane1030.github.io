@@ -9,4 +9,4 @@ category: blog
 
 
 
-[Mukosame]:    http://WangJane1030.github.io  "WangJane"
+[WangJane]:    http://WangJane1030.github.io  "WangJane"
