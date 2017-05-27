@@ -9,7 +9,7 @@ permalink: none
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-title: ishanshan's blog
-url: http://ishanshan.top
+title: WangJane's blog
+url: http://wangjane1030.github.io/
 feed: /atom.xml
-author_info: <a href="http://ishanshan.top/">ishanshan</a>
+author_info: <a href="http://wangjane1030.github.io/">WangJane</a>
