@@ -8,7 +8,7 @@ permalink: /:title
 
 name: “WangJane's Blog”
 title: WangJane's blog
-description: Everything about Mukosame.
+description: Everything about WangJane.
 url: http://WangJane1030.github.io
 feed: /atom.xml
 author_info: <a href="http://WangJane1030.github.io/">WangJane</a>
