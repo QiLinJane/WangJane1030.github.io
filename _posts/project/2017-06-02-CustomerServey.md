@@ -4,7 +4,6 @@ title:  创业怎么能少得了用户调查
 category: project
 description: 如果进行用户调查
 ---
-# 创业怎么能少得了用户调查
 
 ## 用户调查保证你不会白干一场
 
