@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 只言
+title: 浮生记趣
 description: Die Liebe zu Welt.
 category: blog
 ---

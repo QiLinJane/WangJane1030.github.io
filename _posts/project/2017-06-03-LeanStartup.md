@@ -18,7 +18,7 @@ description: 我如何利用精益画布做自己的产品
 
 不过即使是做小样，也是麻雀虽小却要五脏俱全，一切遵循科学的验证方法。下面这张图就是我按精益创业方法做的精益画布
 
-[动作游戏的精益画布](http://olvs25obh.bkt.clouddn.com/%E7%B2%BE%E7%9B%8A%E5%88%9B%E4%B8%9A/jpgjingyichaungye%20.png)
+![我的精益画布](http://olvs25obh.bkt.clouddn.com/%E7%B2%BE%E7%9B%8A%E5%88%9B%E4%B8%9A/jpgjingyichaungye%20.pnge)
 
 每一项目都是一个系统工程，需要我们一步一步拆解成可执行的步骤。
 
