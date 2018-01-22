@@ -5,10 +5,142 @@
 	<key>resolutionData</key>
 	<dict>
 		<key>sheetClusters</key>
-		<dict/>
+		<dict>
+			<key>2017-06-03-clothes.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>535128133.12077802</real>
+				<key>version</key>
+				<dict>
+					<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>2017-06-03-face.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>535128133.12077999</real>
+				<key>version</key>
+				<dict>
+					<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>2017-06-03-star.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>535128133.12078601</real>
+				<key>version</key>
+				<dict>
+					<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>2017-10-14.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>535128133.12078601</real>
+				<key>version</key>
+				<dict>
+					<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>2017-11-01-misssun.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>535128133.12078702</real>
+				<key>version</key>
+				<dict>
+					<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>2017-11-07-minke.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>535128133.12078702</real>
+				<key>version</key>
+				<dict>
+					<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>2017-11-15-laolao.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>535128133.12078702</real>
+				<key>version</key>
+				<dict>
+					<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>2017-12-01-rhythm.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>535128133.12078798</real>
+				<key>version</key>
+				<dict>
+					<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>L03E51：选读一本书 - 《生命不能承受之轻》.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>535128350.09870303</real>
+				<key>version</key>
+				<dict>
+					<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
+			<key>template.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>535128133.12077898</real>
+				<key>version</key>
+				<dict>
+					<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+		</dict>
 	</dict>
 	<key>sheetClusters</key>
-	<array/>
+	<array>
+		<array>
+			<string>L03E51：选读一本书 - 《生命不能承受之轻》.md</string>
+		</array>
+		<array>
+			<string>2017-06-03-clothes.md</string>
+		</array>
+		<array>
+			<string>template.md</string>
+		</array>
+		<array>
+			<string>2017-06-03-face.md</string>
+		</array>
+		<array>
+			<string>2017-06-03-star.md</string>
+		</array>
+		<array>
+			<string>2017-10-14.md</string>
+		</array>
+		<array>
+			<string>2017-11-01-misssun.md</string>
+		</array>
+		<array>
+			<string>2017-11-07-minke.md</string>
+		</array>
+		<array>
+			<string>2017-11-15-laolao.md</string>
+		</array>
+		<array>
+			<string>2017-12-01-rhythm.md</string>
+		</array>
+	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
@@ -16,7 +148,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
-			<integer>4</integer>
+			<integer>8</integer>
 		</dict>
 	</dict>
 </dict>

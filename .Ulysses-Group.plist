@@ -20,12 +20,16 @@
 		<dict>
 			<key>.NOTE.Ulysses_Public_Filter</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>535092842.17046303</real>
 				<key>lastModification</key>
-				<real>532782623.78000998</real>
+				<real>535092842.17046303</real>
 				<key>version</key>
 				<dict>
 					<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
-					<integer>7</integer>
+					<integer>8</integer>
 				</dict>
 			</dict>
 			<key>_layouts</key>
@@ -121,7 +125,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
-			<integer>7</integer>
+			<integer>8</integer>
 		</dict>
 		<key>userIconName</key>
 		<dict>
