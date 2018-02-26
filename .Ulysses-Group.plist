@@ -4,7 +4,6 @@
 <dict>
 	<key>childOrder</key>
 	<array>
-		<string>.NOTE.Ulysses_Public_Filter</string>
 		<string>_posts</string>
 		<string>_layouts</string>
 		<string>project</string>
@@ -18,20 +17,6 @@
 	<dict>
 		<key>childOrder</key>
 		<dict>
-			<key>.NOTE.Ulysses_Public_Filter</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>535092842.17046303</real>
-				<key>lastModification</key>
-				<real>535092842.17046303</real>
-				<key>version</key>
-				<dict>
-					<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
-					<integer>8</integer>
-				</dict>
-			</dict>
 			<key>_layouts</key>
 			<dict>
 				<key>lastModification</key>
@@ -113,9 +98,13 @@
 				</dict>
 			</dict>
 		</dict>
+		<key>sheetClusters</key>
+		<dict/>
 		<key>userIconName</key>
 		<real>532781028.32246298</real>
 	</dict>
+	<key>sheetClusters</key>
+	<array/>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>userIconName</key>
@@ -126,6 +115,11 @@
 		<dict>
 			<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
 			<integer>8</integer>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
+			<integer>2</integer>
 		</dict>
 		<key>userIconName</key>
 		<dict>
