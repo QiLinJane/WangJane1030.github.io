@@ -6,24 +6,24 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>20170602CustomerServey.md</key>
+			<key>2017-06-02-CustomerServey.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>542948076.83173704</real>
+				<real>542948880.35838795</real>
 				<key>version</key>
 				<dict>
 					<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
-					<integer>3</integer>
+					<integer>7</integer>
 				</dict>
 			</dict>
-			<key>20170603LeanStartup.md</key>
+			<key>2017-06-03-LeanStartup.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>542948089.19834399</real>
+				<real>542948889.06267202</real>
 				<key>version</key>
 				<dict>
 					<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
-					<integer>5</integer>
+					<integer>9</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -31,10 +31,10 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>20170602CustomerServey.md</string>
+			<string>2017-06-02-CustomerServey.md</string>
 		</array>
 		<array>
-			<string>20170603LeanStartup.md</string>
+			<string>2017-06-03-LeanStartup.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -44,7 +44,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>ca032b4df720a05a7ab26e66a568ac3b97ca155633fef28a3d941bef7c781c13</key>
-			<integer>6</integer>
+			<integer>10</integer>
 		</dict>
 	</dict>
 </dict>
