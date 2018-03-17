@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:  精益画布-创业的行动地图
-category: project
+category: projects
 description: 我如何利用精益画布做自己的产品
 ---
 
@@ -43,3 +43,4 @@ description: 我如何利用精益画布做自己的产品
 精益画布是我们在有了想法，做了用户调查后花几个小时快速思考的结果，不是唯一不变的，它会随着我们对用户的深入了解，渠道的探索不断进行更改调整。但最初，这样A4大的一张纸，是我脑海里的行动地图。
 
 [image-1]:	http://olvs25obh.bkt.clouddn.com/%E7%B2%BE%E7%9B%8A%E5%88%9B%E4%B8%9A/jpgjingyichaungye%20.png
+
