@@ -186,18 +186,45 @@ La Mer 保湿都败给了凡士林
 
 - Fresh馥蕾诗红茶抗皱紧致面膜 599RMB 100ml
 
+1. 玉兰油专业方程式抗皱精华霜
+
+2. 欧莱雅复颜密集修护精华
+``
+3. 宝拉珍选岁月屏障全方位抗氧化精华
+
+4. 玉兰油新生塑颜金纯面霜（大红瓶``
+
+
+
 
 ## 四、防晒
 
 
+## 六、特殊季节: 冬季
+
+1. 温和洗面奶-芙丽芳丝
+2. 玻尿酸 (透明质酸) 原液（太阳社透明质酸原液）：分子能携带500倍以上的水分，是目前公认的最佳保湿成分
+3. 含有甘油的保湿面霜：
+    4. 妮维雅蓝罐：很像百雀羚。但它和百雀羚的成分却大大的不同。百雀羚基本上就是凡士林，而妮维雅蓝罐的配方可是非常经典的。
+    5. 珂润润浸保湿滋养乳霜」，尿囊素 + 甘油 + 角鲨烷的配方真是杠杠的。
+4. 再加水：最后再用一些化妆水拍在脸上，甘油就可以抓住水了
+
+
+
+
+
+### 六、特殊季节: 夏季
 
 ## 购买清单
 
 - 抗氧化（抗皱/抗衰）精华
 
 - 防晒墨镜
+
 ## 参考
 * [女神进化论](file:///Users/apple/Library/Application%20Support/Firefox/Profiles/nwbjy88f.default/ScrapBook/data/20181028221929/index.html)
 * [女神进化论](file:///Users/apple/Library/Application%20Support/Firefox/Profiles/nwbjy88f.default/ScrapBook/data/20181028214328/index.html)
 * [女神进化论](file:///Users/apple/Library/Application%20Support/Firefox/Profiles/nwbjy88f.default/ScrapBook/data/20181028220739/index.html)
 * [洗面奶：女神进化论](file:///Users/apple/Library/Application%20Support/Firefox/Profiles/nwbjy88f.default/ScrapBook/data/20181028224614/index.html)
+* [防晒:女神进化论](file:///Users/apple/Library/Application%20Support/Firefox/Profiles/nwbjy88f.default/ScrapBook/data/20181028230452/index.html)
+* [防晒墨镜:女神进化论](file:///Users/apple/Library/Application%20Support/Firefox/Profiles/nwbjy88f.default/ScrapBook/data/20181028230550/index.html)
